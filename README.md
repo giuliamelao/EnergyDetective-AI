@@ -1,3 +1,6 @@
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+
 # EnergyDetective-AI ⚡
 ## An AI solution for energy anomaly detection and customer profiling to combat theft and optimize utility services
 
@@ -40,4 +43,8 @@ In this project, we generated synthetic data using the Faker library and integra
 > RMSE: 1.7704161212619598
 >
 > MAPE: 1.5705519338998966
+
+
+### Project Status
+✅ This project has been completed and will no longer receive updates. Feel free to explore and use it
 
